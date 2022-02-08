@@ -22,7 +22,8 @@ class Letter:
         ],
         "philip": [
             {"xpath": '//a[@id="code"]'},
-            {"xpath": '//a[@id="digest_1"]'}
+            {"xpath": '//a[@id="digest_1"]'},
+            {"xpath": '//a[@id="auth"]'}
         ],
         "chesterfield": [
             {"xpath": '//a[@id="button"]'},
